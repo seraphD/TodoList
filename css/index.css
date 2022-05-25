@@ -1,0 +1,11 @@
+.todo-item {
+    margin: 10px 0;
+}
+
+.completed {
+    color: aquamarine;
+}
+
+.incompleted {
+    color: coral;
+}
